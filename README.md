@@ -1,1 +1,0 @@
-# ASP.NET-Identity-RD-Lab-example
